@@ -2,6 +2,8 @@
 
 forked from https://github.com/weightshift/The-Personal-Page
 
+```
+
 =============================
 
 The Personal Page
@@ -48,5 +50,4 @@ v1.1
 — Added responsive design for mobile devices
 — Mobile devices no longer load the background image to save the bandwidth and performance hit.
 
-
-
+```
